@@ -4,9 +4,9 @@ import (
 	"context"
 	"runtime"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat/model"
-	"github.com/sjzar/chatlog/internal/wechat/process"
+	"github.com/PencilMario/chatlog/internal/errors"
+	"github.com/PencilMario/chatlog/internal/wechat/model"
+	"github.com/PencilMario/chatlog/internal/wechat/process"
 )
 
 var DefaultManager *Manager

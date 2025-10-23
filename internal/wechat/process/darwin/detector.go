@@ -9,9 +9,9 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/shirou/gopsutil/v4/process"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat/model"
-	"github.com/sjzar/chatlog/pkg/appver"
+	"github.com/PencilMario/chatlog/internal/errors"
+	"github.com/PencilMario/chatlog/internal/wechat/model"
+	"github.com/PencilMario/chatlog/pkg/appver"
 )
 
 const (

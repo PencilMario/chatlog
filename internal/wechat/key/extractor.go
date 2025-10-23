@@ -3,11 +3,11 @@ package key
 import (
 	"context"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat/decrypt"
-	"github.com/sjzar/chatlog/internal/wechat/key/darwin"
-	"github.com/sjzar/chatlog/internal/wechat/key/windows"
-	"github.com/sjzar/chatlog/internal/wechat/model"
+	"github.com/PencilMario/chatlog/internal/errors"
+	"github.com/PencilMario/chatlog/internal/wechat/decrypt"
+	"github.com/PencilMario/chatlog/internal/wechat/key/darwin"
+	"github.com/PencilMario/chatlog/internal/wechat/key/windows"
+	"github.com/PencilMario/chatlog/internal/wechat/model"
 )
 
 // Extractor 定义密钥提取器接口
